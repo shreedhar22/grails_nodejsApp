@@ -1,4 +1,2 @@
-grails_nodejsApp
-================
-
-Gumball Machine app with nodejs and groovy on grails
+CMPE281-Lab4
+============
